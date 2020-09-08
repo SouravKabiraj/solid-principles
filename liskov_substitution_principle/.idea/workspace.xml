@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e07776d8-6663-4da4-950b-b49538528734" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hEfoCLQSHH0UpT5O4LaHdqKf3p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../interface_segregation_principle" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e07776d8-6663-4da4-950b-b49538528734" name="Default Changelist" comment="" />
+      <created>1599581344778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599581344778</updated>
+      <workItem from="1599581346250" duration="1290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="719" y="355" width="559" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599582118793">
+      <screen x="88" y="27" width="1832" height="1053" />
+    </state>
+    <state x="719" y="355" width="559" height="403" key="#com.intellij.fileTypes.FileTypeChooser/88.27.1832.1053@88.27.1832.1053" timestamp="1599582118793" />
+    <state x="812" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1599582481901">
+      <screen x="88" y="27" width="1832" height="1053" />
+    </state>
+    <state x="812" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/88.27.1832.1053@88.27.1832.1053" timestamp="1599582481901" />
+    <state x="787" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1599582626911">
+      <screen x="88" y="27" width="1832" height="1053" />
+    </state>
+    <state x="787" y="311" width="424" height="491" key="FileChooserDialogImpl/88.27.1832.1053@88.27.1832.1053" timestamp="1599582626911" />
+  </component>
+</project>
